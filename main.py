@@ -5,7 +5,7 @@ import datetime
 
 weekcolor = 0
 
-bot = telebot.TeleBot("2056875963:AAGS7_2NF3zERq99EsiDS9TNPzeXOY-I300")
+bot = telebot.TeleBot("2086370566:AAGijx-i2CsJOE751UDXvHFLCqq3sPSdmj0")
 
 
 def writejson():
